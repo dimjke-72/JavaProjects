@@ -1,6 +1,5 @@
 package ru.gb.lesson1.HomeWork;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class task1 {
